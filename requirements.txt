@@ -1,4 +1,4 @@
-langgraph
+langgraph=0.3.22
 langgraph-sdk
 langgraph-checkpoint-sqlite
 langsmith
