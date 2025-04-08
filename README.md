@@ -4,6 +4,11 @@ Welcome to the **Intelligent Log Analyzer Agent**! This dummy version of the pro
 
 ---
 
+![Main Dashboard](https://github.com/Hetav01/Intelligent-Log-Analyzer-Using-Langgraph/blob/main/UI1.png)
+![Detailed Log View](https://github.com/Hetav01/Intelligent-Log-Analyzer-Using-Langgraph/blob/main/UI2.png)
+
+---
+
 ## ✨ Why This Project Is a Game-Changer in Software Development
 
 - **🚀 Accelerated Debugging & Troubleshooting:**  
